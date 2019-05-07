@@ -1,3 +1,4 @@
+マスターブランチ
 # RailsExam:01 Bugfix
 
 This application contains some bugs for beginner of RoR.  
