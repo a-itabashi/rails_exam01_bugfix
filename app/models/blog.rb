@@ -1,5 +1,6 @@
 class Blog < ApplicationRecord
-  has_many :comment
+  # 複数系のsをつけた
+  has_many :comments
 
   validates :title, presence: true
   validates :content, presence: true
